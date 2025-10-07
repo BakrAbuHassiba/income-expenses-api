@@ -69,6 +69,7 @@ Before running, ensure you have:
 6. **Start the development server**
  python manage.py runserver
 
+**🧾 API Endpoints**
   ```
 | Method | Endpoint              | Description                           |
 | ------ | --------------------- | ------------------------------------- |
